@@ -1,0 +1,26 @@
+@import url('http://fonts.cdnfonts.com/css/encode-sans-compressed');
+
+/* *{
+    font-family: 'Encode Sans Compressed', sans-serif;
+font-family: 'Encode Sans Condensed', sans-serif;
+font-family: 'Encode Sans Narrow', sans-serif;
+font-family: 'Encode Sans Normal', sans-serif;
+font-family: 'Encode Sans Wide', sans-serif;    
+} */
+
+#cloud-image{
+    background-image: url('images/cloud.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+.chat-btn{
+    border: none;
+    background-color: #fbb730;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+}
+
