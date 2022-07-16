@@ -336,6 +336,10 @@
         margin: 5px 9px 5px 9px;
     }
 
+    input[type=search] {
+        width: 200px;
+    }
+
     .small-screen-image-1 {
         height: 550px;
         width: 600px;
