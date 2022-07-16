@@ -250,6 +250,10 @@
         height: 40px;
     }
 
+    .pg-padding{
+        padding-right: 180px;
+    }
+
     input[type=search] {
         width: 150px;
     }
@@ -448,6 +452,14 @@
         margin-left: -50px;
     }
 
+    .heading-grid{
+        font-size: 50px;
+    }
+
+    .heading-cloud-section{
+        font-size: 35px;
+    }
+
     .home-section {
         padding-top: 120px;
         padding-left: 70px;
@@ -491,5 +503,11 @@
         background-size: 120% auto;
     }
     
+    .headings{
+        margin-top: -50px;
+    }
+    .pg-padding{
+        margin-top: 45px;
+    }
 
 }
